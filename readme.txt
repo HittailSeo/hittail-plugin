@@ -12,39 +12,34 @@ Drive targeted search visitors to your website by focusing on the most promising
 
 == Description ==
 
-HitTail is an [SEO keyword tool](http://www.hittail.com/) 
-that tells you, in real-time, the most promising search terms you should 
-target based on your existing traffic. We do this using a sophisticated 
-algorithm tuned by analyzing over 1.2 billion keywords.
+[HitTail](http://www.hittail.com/) is a long tail keywords suggestions and website 
+auditing tool. It analyzes organic traffic on your site and identifies 
+hot keywords depending upon the nature of your business. 
 
-As a website owner, one of your biggest assets is the proprietary data 
-contained in your web traffic, since your competition does not have access 
-to it. HitTail analyzes your visitor stream in real-time and provides you with a 
-simple, actionable list of SEO keyword suggestions you should be targeting 
-to dramatically grow your organic search traffic.
+Hence, HitTail is a tool which helps you know long tail keywords you 
+should actually target in order to increase traffic.
 
 = The HitTailing Process =
 
-Simply [sign up for a HitTail account](http://www.hittail.com/plans.asp)
-and install this plugin to get started. Once installed, we begin to analyze all 
-your traffic to find the most promising keyword suggestions for your website.
+Simply [sign up](http://www.hittail.com/plans.asp) with HitTail and install the plugin 
+by following the installation instructions. Once installed, HitTail 
+begins to analyze all your traffic to find the most promising long tail 
+keywords suggestions for your website. 
 
-If you target the [keyword suggestions](http://www.hittail.com/faq/write.html) 
-provided by HitTail in just one article or blog post, you are almost 
-guaranteed to rank on the first page for those keywords. As you 
-continue adding content and increasing your keyword diversity, the size 
-and rankings of your site effectively _snowball_. That is the power of
-long tail SEO.
+Target the suggested keywords in your contents. As you continue 
+creating such contents, you increase your keywords diversity. 
+Ultimately, the size and rankings of your site effectively snowball. 
+That is the power of long tail SEO.
+
 
 = More Information =
 
-- [Try HitTail Free for 21 Days](http://www.hittail.com/plans.asp)
-- [How Is HitTail Different From Analytics?](http://www.hittail.com/faq/analytics.html)
-- [What Should I Do With Keyword Suggestions?](http://www.hittail.com/faq/write.html)
+- [Frequently Asked Questions](http://www.hittail.com/faq)
+- [HitTail Plans](http://www.hittail.com/plans.asp)
 
-= Need Help? =
+= Feedback =
 
-[Contact our friendly support staff](http://www.hittail.com/contact.asp) for assistance.
+[Contact us](http://www.hittail.com/contact.asp) to share your feedback or raise inquiries.
 
 == Installation ==
 
@@ -58,8 +53,12 @@ long tail SEO.
 
 This plugin automatically installs the HitTail tracking code for you. All you 
 have to do is install this plugin and enter your Site ID on the settings page.
-Your Site ID can be found on the [Account > Sites](http://www.hittail.com/app/sites.asp)
-page.
+
+To get your Site ID Please follow these instructions:
+1. Log in to your HitTail account.
+2. Click Account in the top-right and then go to the Sites tab.
+3. Copy the Site ID of the website you’d like to add tracking code to (a 7 digits number).
+
 
 = Do I need to have a HitTail account? =
 
